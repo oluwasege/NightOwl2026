@@ -8897,7 +8897,7 @@
         <Background Type="CT_RAW" Source="FF647988" />
       </Color>
       <Color Name="HighlightedSpan">
-        <Background Type="CT_RAW" Source="FFFEFCC8" />
+        <Background Type="CT_RAW" Source="FF20476C" />
         <Foreground Type="CT_RAW" Source="FFE0F6FF" />
       </Color>
       <Color Name="SelectedItemActiveGlyphMouseOver">
