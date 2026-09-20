@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="NightOwl2026" GUID="{e39aee72-4d73-45a8-ae17-413ace216161}" BaseGUID="{0c0b67f0-0f88-4926-b7ed-c5b7ce297d39}">
+  <Theme Name="NightOwl2026" GUID="{e39aee72-4d73-45a8-ae17-413ace216161}" BaseGUID="{0c0b67f0-0f88-4926-b7ed-c5b7ce297d39}" FallbackId="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF011627" />
@@ -10714,11 +10714,23 @@
       <Color Name="EnvironmentBadge">
         <Background Type="CT_RAW" Source="0FFFFFFF" />
       </Color>
+      <Color Name="EnvironmentBody">
+        <Background Type="CT_RAW" Source="FF011627" />
+      </Color>
+      <Color Name="EnvironmentBodyText">
+        <Background Type="CT_RAW" Source="FFE0F6FF" />
+      </Color>
       <Color Name="EnvironmentBorder">
         <Background Type="CT_RAW" Source="FF5F7E97" />
       </Color>
       <Color Name="EnvironmentBorderInactive">
         <Background Type="CT_RAW" Source="FF0B4D6B" />
+      </Color>
+      <Color Name="EnvironmentHeader">
+        <Background Type="CT_RAW" Source="FF011627" />
+      </Color>
+      <Color Name="EnvironmentHeaderInactive">
+        <Background Type="CT_RAW" Source="FF011325" />
       </Color>
       <Color Name="EnvironmentIndicator">
         <Background Type="CT_RAW" Source="663F6382" />
@@ -10731,6 +10743,12 @@
       </Color>
       <Color Name="EnvironmentLogo">
         <Background Type="CT_RAW" Source="80002C57" />
+      </Color>
+      <Color Name="EnvironmentTab">
+        <Background Type="CT_RAW" Source="FF011627" />
+      </Color>
+      <Color Name="EnvironmentTabInactive">
+        <Background Type="CT_RAW" Source="FF011325" />
       </Color>
       <Color Name="StatusBarBackgroundFillBuilding">
         <Background Type="CT_RAW" Source="8B011627" />
