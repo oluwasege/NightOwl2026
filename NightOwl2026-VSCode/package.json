@@ -1,0 +1,35 @@
+{
+  "name": "nightowl2026-reloaded",
+  "displayName": "NightOwl2026 Reloaded",
+  "description": "A dark, low-glare color theme for VS Code, ported from the NightOwl2026 Visual Studio extension's own palette.",
+  "version": "1.0.0",
+  "publisher": "oluwasege",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "color-theme",
+    "dark",
+    "night owl",
+    "nightowl"
+  ],
+  "icon": "images/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oluwasege/NightOwl2026"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "NightOwl2026 Reloaded",
+        "uiTheme": "vs-dark",
+        "path": "./themes/night-owl-2026-reloaded-color-theme.json"
+      }
+    ]
+  }
+}
