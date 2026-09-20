@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="NightOwl2026.e1e706e2-05d3-4da9-8754-652cd8ab65f4" Version="1.4" Language="en-US" Publisher="oluwasege" />
+        <Identity Id="NightOwl2026Reloaded.09b139c0-c093-42bb-8faf-9cf140c5ce62" Version="1.4" Language="en-US" Publisher="oluwasege" />
         <DisplayName>NightOwl2026 Reloaded</DisplayName>
         <Description xml:space="preserve">A community-maintained continuation of NightOwl2026, originally created by Mateusz Kalina (God0nlyKnows), updated for Visual Studio 2026's June 2026 Fluent theming changes so tabs, tool window headers, and title bars render correctly. Original project: https://github.com/God0nlyKnows/NightOwl2026</Description>
         <MoreInfo>https://github.com/oluwasege/NightOwl2026</MoreInfo>
