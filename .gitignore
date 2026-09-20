@@ -1,0 +1,27 @@
+## Visual Studio / MSBuild build output
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Visual Studio cache/options directory
+.vs/
+
+## NuGet
+*.nupkg
+*.snupkg
+[Pp]ackages/
+!**/[Pp]ackages/build/
+
+## VSIX build artifacts
+*.vsix
+
+## Project upgrade / migration reports
+UpgradeLog.htm
+UpgradeLog*.XML
+
+## OS files
+Thumbs.db
+.DS_Store
